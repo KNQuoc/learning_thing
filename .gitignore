@@ -1,0 +1,7 @@
+venv
+uploads
+vectorstore
+data
+chat_server.log
+deepseek_server.log
+/Users/quocngo/Documents/GitHub/learning_thing/backend/.env
