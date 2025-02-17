@@ -3,8 +3,6 @@ openai
 uvicorn
 python-dotenv
 pydantic
-torch
-transformers
 requests
 aiohttp
 langchain
